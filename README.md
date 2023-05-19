@@ -1,4 +1,4 @@
-# react-native-test-projects
+# react-native-course-projects
 Projects developed using the React Native framework for the [The Complete React Native + Hooks Course](https://www.udemy.com/course/the-complete-react-native-and-redux-course/)
 
 ## Food
