@@ -1,4 +1,4 @@
-# ReactNative-Projects
+# react-native-test-projects
 Projects developed using the React Native framework
 
 ## Food
