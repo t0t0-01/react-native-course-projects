@@ -1,5 +1,5 @@
 # react-native-test-projects
-Projects developed using the React Native framework
+Projects developed using the React Native framework for the **The Complete React Native + Hooks Course**
 
 ## Food
 App that uses the Yelp API to display restaurants based on a user search.
